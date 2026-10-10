@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Evaluation protocols for ML-based water leak detection: code and results"
+message: "If you use this software or the derived results, please cite the paper."
+type: software
+authors:
+  - family-names: Itani
+    given-names: AbdelHafiz
+    affiliation: Lebanese American University
+  - family-names: Watfa
+    given-names: Mohammad
+    affiliation: Lebanese American University
+license: MIT
+repository-code: "https://github.com/abedi21/leak-detection-evaluation-protocols"
+keywords:
+  - leak detection
+  - water distribution systems
+  - evaluation protocol
+  - data leakage
+  - cross-topology generalization
